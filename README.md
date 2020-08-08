@@ -1,3 +1,3 @@
-# LeetCode-Solutions
+# LeetCode-Arrays
 
-This repository includes the solutions for LeetCode problems each file including different data structure. 
+This repository includes the solutions for LeetCode problems on Array.
